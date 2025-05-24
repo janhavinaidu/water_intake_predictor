@@ -1,6 +1,10 @@
 # 💧 Water Intake Predictor
 
 This project is a web app that predicts personalized daily water intake based on user data using machine learning.
+![Screenshot 2025-05-24 150119](https://github.com/user-attachments/assets/f2904703-9c77-40ff-8cf2-d7679ca909fd)
+
+
+![image](https://github.com/user-attachments/assets/46edfc4e-a54d-4f98-a00a-43fe7c0ba530)
 
 ## 🚀 Features
 
